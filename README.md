@@ -104,11 +104,11 @@ Traza completa.
   TCP    10.101.101.50:43851    20.42.65.88:443        ESTABLISHED
 ### Captura de tracert
 
-![Tracert](Capturas/item2_tracert.png)
+![Tracert](capturas/item2_tracert.png)
 
 ### Captura de netstat
 
-![Netstat](Capturas/item2_netstat.png)
+![Netstat](capturas/item2_netstat.png)
 ### ¿En qué salto se ve el mayor aumento de latencia?
 
 El mayor aumento de latencia se observa entre el salto 2 y el salto 3, donde el tiempo pasa de menos de 1 ms a valores de entre 3 ms y 10 ms. Esto podría indicar el paso desde la red local hacia la red del proveedor de Internet (ISP) o un cambio a un enlace de mayor distancia.
@@ -148,7 +148,7 @@ Addresses:  2800:3f0:4002:807::200e
           142.251.129.110
 ### Captura
 
-![NSLOOKUP](Capturas/item3_nslookup.png)
+![NSLOOKUP](capturas/item3_nslookup.png)
 ### ¿Qué dirección IP devuelve el primer nslookup para clarin.com?
 
 El comando nslookup para clarin.com devuelve las direcciones IPv4 104.18.6.141 y 104.18.7.141. También devuelve las direcciones IPv6 2606:4700::6812:68d y 2606:4700::6812:78d.
