@@ -1,0 +1,4 @@
+Servidor:  one.one.one.one
+Address:  1.1.1.1
+
+clarin.com	MX preference = 0, mail exchanger = clarin-com.mail.protection.outlook.com

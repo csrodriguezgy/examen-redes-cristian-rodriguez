@@ -1,0 +1,14 @@
+
+Traza a la direcci¢n clarin.com [104.18.6.141]
+sobre un m ximo de 30 saltos:
+
+  1    <1 ms    <1 ms    <1 ms  10.101.101.1 
+  2    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  3     6 ms     3 ms    10 ms  200.51.241.1 
+  4     5 ms    19 ms     2 ms  213.140.39.117 
+  5    19 ms    19 ms     2 ms  213.140.39.116 
+  6     4 ms     4 ms     4 ms  cloudflare-ae70-0-grtbueba1.net.telefonicaglobalsolutions.com [94.142.103.101] 
+  7     3 ms     3 ms     3 ms  198.41.228.7 
+  8     4 ms     3 ms     3 ms  104.18.6.141 
+
+Traza completa.
